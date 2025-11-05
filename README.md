@@ -19,8 +19,8 @@ Vebsy is part of the **Startype** ecosystem—a founder-led initiative to simpli
 
 We’re a **two-member founding team** with backgrounds in product architecture, full-stack development, and UI/UX design. Our mission is to make digital onboarding frictionless for everyone—especially those without tech expertise.
 
-- **Harshit Chourasia** – Founder & Product Architect  
-- **[Co-founder Name]** – [Role: e.g., Backend Lead / Growth Strategist]
+- **Harshit Chourasia**  
+- **Kanha sharma** 
 
 ---
 
