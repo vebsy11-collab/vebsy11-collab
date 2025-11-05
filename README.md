@@ -47,8 +47,7 @@ We believe every business deserves a beautiful online presence—without hiring 
 
 Want to collaborate, test the beta, or just say hi?
 
-- Email: `team@vebsy.io` *(placeholder)*
-- Twitter: `@vebsyHQ`
+- Email: `vebsy11@gmail.com` *(placeholder)*
 - Website: `https://vebsy.io` *(coming soon)*
 
 ---
